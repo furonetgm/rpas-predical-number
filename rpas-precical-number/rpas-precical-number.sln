@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpas-precical-number-gui", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpas-predical-number-bll", "rpas-predical-number-bll\rpas-predical-number-bll.csproj", "{B45F492D-0826-48EF-BF5B-7E4B293E2BEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpas-predical-number-dal", "rpas-predical-number-dal\rpas-predical-number-dal.csproj", "{92A422BD-9A04-4428-A419-5FC753D13477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpas-predical-number-bol", "rpas-predical-number-bol\rpas-predical-number-bol.csproj", "{2415998D-9075-4E01-8637-30044EF3A7D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B45F492D-0826-48EF-BF5B-7E4B293E2BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45F492D-0826-48EF-BF5B-7E4B293E2BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45F492D-0826-48EF-BF5B-7E4B293E2BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A422BD-9A04-4428-A419-5FC753D13477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A422BD-9A04-4428-A419-5FC753D13477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A422BD-9A04-4428-A419-5FC753D13477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A422BD-9A04-4428-A419-5FC753D13477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2415998D-9075-4E01-8637-30044EF3A7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2415998D-9075-4E01-8637-30044EF3A7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2415998D-9075-4E01-8637-30044EF3A7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2415998D-9075-4E01-8637-30044EF3A7D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
